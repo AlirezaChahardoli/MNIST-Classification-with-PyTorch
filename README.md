@@ -5,6 +5,11 @@
 ---
 # [Torchvision.dataset.MNIST](https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html)
 
+# How does CNN work?
+https://github.com/user-attachments/assets/179901ed-8d2e-429d-88de-89be3bfd5f9f
+
+
+
 ![MNIST](https://github.com/user-attachments/assets/372549a1-e5da-4caa-870b-efa192fdede2)
 
 ---
